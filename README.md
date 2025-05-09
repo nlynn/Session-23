@@ -1,3 +1,5 @@
+#Editor: Natalie LeBaron 
+
 # Session-23
 
 The twenty-third session of the LSSTC DSFP focuses on Statistics and Bayesian Inference. The guest instructors for Session 23 are:
